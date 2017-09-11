@@ -112,8 +112,8 @@
 		}
 
 	body {
-		background-color: #fff;
-		color: #aaa;
+		background-color: #529ecc;
+		color: #fff;
 	}
 
 	body, input, select, textarea {
@@ -121,7 +121,7 @@
 		font-weight: 400;
 		line-height: 1.65;
 		font-size: 1em;
-		color: #aaa;
+		color: ##52a2d1;
 	}
 
 	a {
